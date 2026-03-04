@@ -1,0 +1,69 @@
+<html>
+<body>
+
+<h1 align="center"><b><u>Personal Time Table</u></b></h1>
+<h4>krutika</h4>
+<h5>CS25151</h5>
+
+<table align="center" border="2px" width="500">
+<tr align="center">
+<th><i>Day / Time (pm)</i></th>
+<th>7:30</th>
+<th>8:30</th>
+<th>9:30</th>
+<th>10 to 11</th>
+</tr>
+
+<tr align="center">
+<th>MON</th>
+<td>M2</td>
+<td>CodeTantra</td>
+<td rowspan="5">Dinner</td>
+<td>Chemistry</td>
+</tr>
+
+<tr align="center">
+<th>TUE</th>
+<td>Chemistry</td>
+<td>M2</td>
+<td>Call Time</td>
+</tr>
+
+<tr align="center">
+<th>WED</th>
+<td>CodeTantra</td>
+<td>M2</td>
+<td>Physics</td>
+</tr>
+
+<tr align="center">
+<th>THU</th>
+<td>EE</td>
+<td>Physics</td>
+<td>Math Practice</td>
+</tr>
+
+<tr align="center">
+<th>FRI</th>
+<td>M2</td>
+<td>Chemistry</td>
+<td>English</td>
+</tr>
+
+<tr align="center">
+<th>SAT</th>
+<td>CodeTantra</td>
+<td>Physics</td>
+<td>Sports</td>
+<td>Project Work</td>
+</tr>
+
+<tr align="center">
+<th>SUN</th>
+<td colspan="4">Holiday</td>
+</tr>
+
+</table>
+
+</body>
+</html>
