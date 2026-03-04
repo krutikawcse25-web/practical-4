@@ -1,0 +1,50 @@
+<html>
+<head>practical no.4</head>
+<h1> Krutika Wasnik </h1>
+<h2>CS25151</h2>
+
+<h2 align ="center">Personal Time Table</h2>
+<body bgcolor="light pink">
+<table border="3px" cellspacing="6px" cellpadding ="5px >
+<tr>
+<th>Day / Time</th>
+<th>7:30 </th>
+<th>8:30 </th>
+<th>9:30 </th>
+<th>10:30 </th>
+</tr>
+<tr>
+<th>Monday</th>
+<td>maths</td>
+<td>smp</td>
+<td>EE</td>
+<td>chemistry</td>
+</tr>
+<th>Tuesday</th>
+<td>maths</td>
+<td>EE</td>
+<td>codetantra</td>
+<td>smp</td>
+<tr>
+<th>Wednesday</th>
+<td>chemistry</td>
+<td>EE</td>
+<td>smp</td>
+</tr>
+<tr>
+<th>Thursday</th>
+<td>maths</th>
+<td>smp</th>
+<td>EE</td>
+<td>chemistry</td>
+</tr>
+<tr>
+<th>Friday</th>
+<td>maths</td>
+<td>EE</td>
+<td>codetantra</td>
+<td>smp</td>
+</tr>
+</table>
+</body>
+</html>
